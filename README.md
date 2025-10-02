@@ -1,3 +1,3 @@
-# Information-Science-Projects
-This repo provides insight into the various Data analyst-related projects I have completed. 
-They are not comprehensive, and I'll continue adding more as I progress in skill. 
+Programming Projects
+As I continue to develope and hone my programming skills (Python and C), I'll continually update this repository to include my most recent projects,
+no matter how complex, big, or small they may be. 
